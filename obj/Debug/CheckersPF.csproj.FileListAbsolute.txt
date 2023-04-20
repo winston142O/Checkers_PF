@@ -1,0 +1,12 @@
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\bin\Debug\CheckersPF.exe.config
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\bin\Debug\CheckersPF.exe
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\bin\Debug\CheckersPF.pdb
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.csproj.AssemblyReference.cache
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.Form1.resources
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.Form2.resources
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.Properties.Resources.resources
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.csproj.GenerateResource.cache
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.csproj.CoreCompileInputs.cache
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.exe
+C:\Users\Winst\Downloads\aperd\checkers-master\CheckersPF\obj\Debug\CheckersPF.pdb
